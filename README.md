@@ -1,3 +1,11 @@
+TO clone project in your machine :
+ git clone https://github.com/khaledmohamed8895/CURDS
+
+ to start project open this file :(index.html)
+
+
+Details about (CURDS):
+
 Product Management System - CURDS
 
 Welcome to the Product Management System tutorial! CURDS stands for Create, Read, Update, Delete, and Search.
