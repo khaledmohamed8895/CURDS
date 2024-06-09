@@ -149,7 +149,7 @@ function delate_all () {
   }
 }
 
-//update
+//update data
 function update_data (i) {
   title.value = dataPro[i].title;
   price.value = dataPro[i].price;
